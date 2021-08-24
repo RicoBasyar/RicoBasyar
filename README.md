@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently studying on University of Amikom Yogyakarta-Jakarta ada</br>
+🔭 I’m currently studying on University of Amikom Yogyakarta</br>
 🌱 I’m currently learning Go Programming Language</br>
 ⚡ Fun fact: Every time you take a breath you just reset the timer of your live.</br>
 

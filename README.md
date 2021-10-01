@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently studying on University of Amikom Yogyakarta</br>
-🌱 I’m currently learning Go Programming Language</br>
+🌱 I’m currently learning Django Web Framework</br>
 ⚡ Fun fact: Every time you take a breath you just reset the timer of your live.</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoBasyar&layout=compact&show_icons=true&theme=dark)</br>
